@@ -10,6 +10,7 @@ export default function Content() {
       <AsciiRenderer
         fgColor="#dcdfe4"
         bgColor="transparent"
+        resolution={0.2}
         characters=" ~`!@#$%^&*()_-+=1234567890qwertyuiopasdfghjklzxcvnm,<.>/?;:QWERTYUIOPASDFGHJKLZXCVBNM"
       />
       <MaxwellTheCat />
